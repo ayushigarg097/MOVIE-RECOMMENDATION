@@ -5,8 +5,8 @@ This recommendationn system works as a 'hybrid'
 
 ## HYBRID
 A hybrid consists of:=
-*collabrative approach-what we like and similar users have liked in the past.
-*context approach-what only you like.*
+*collabrative approach*-what we like and similar users have liked in the past.
+*context approach*-what only you like.
 ## DEPENDENCIES
 *NUMPY*
 ...
